@@ -1,4 +1,4 @@
-FROM mongo:3.2.1
+FROM mongo:3.2
 
 MAINTAINER ChenPeng <chenPeng@ghostcloud.cn>
 
